@@ -1,3 +1,3 @@
 # This is a header
 
-Some text inside
+This is a new line
